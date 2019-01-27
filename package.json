@@ -1,0 +1,22 @@
+{
+  "name": "book_club",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aschreck/book_club.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aschreck/book_club/issues"
+  },
+  "homepage": "https://github.com/aschreck/book_club#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
