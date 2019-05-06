@@ -1,9 +1,10 @@
 {
   "name": "book_club",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is a Turing Ruby project built in JavaScript to supplement my understanding of Node.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "test"
   },
   "repository": {
@@ -17,6 +18,10 @@
   },
   "homepage": "https://github.com/aschreck/book_club#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "knex": "^0.16.5",
+    "objection": "^1.6.8",
+    "pg": "^7.8.0",
+    "pug": "^2.0.3"
   }
 }
